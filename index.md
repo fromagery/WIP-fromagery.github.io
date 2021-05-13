@@ -6,3 +6,5 @@ Grimace Studios Demos
 [Tower Defense](https://fromagery.github.io/TowerDefense2/)
 
 [Shoot Em Up](https://fromagery.github.io/ShootEmUp/)
+
+[Hyper Casual](https://fromagery.github.io/HyperCasual/)
