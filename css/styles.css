@@ -1,0 +1,27 @@
+body {
+      background-color: #393e46;
+      color: #eeeeee
+
+    }
+    html {
+      font-size: 150%;
+    }
+
+    hr {
+      border-color: #00adb5;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+      width: 5%;
+    }
+
+    a:visited {
+     text-decoration: none;
+     color: #00adb5;
+    }
+h1{
+  color: #aad8d3;
+}
+h3{
+  color: #aad8d3;
+}
