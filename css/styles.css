@@ -1,10 +1,17 @@
 body {
-      background-color: #393e46;
-      color: #eeeeee
+
+      color: #eeeeee;
+      margin: 0;
+      font-family: source_sans_pro, Open Sans, sans-serif;
+      font-size: 1.1em;
+      letter-spacing: 0.5px;
+
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'Source Sans Pro', sans-serif;
 
     }
     html {
-      font-size: 150%;
+
     }
 
     hr {
@@ -18,7 +25,9 @@ body {
     a:visited {
      text-decoration: none;
      color: #00adb5;
+
     }
+
 h1{
   color: #aad8d3;
   text-align: center;
@@ -29,7 +38,75 @@ h3{
 }
 body {
   text-align: center;
+  margin: 0;
 }
 p{
   text-align: center;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.name-sentence>span.name {
+  color: #f2f2f2;
+}
+.name-sentence {
+    text-align: left;
+    color: #a6a6a6;
+    font-size: 42px;
+    left: 42px;
+    letter-spacing: normal;
+    position: absolute;
+}
+
+
+.top-container {
+  background-color: yellow;
+
+  padding-top: 20px;
+  background-color: #404040;
+
+  width: 100%;
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 2px 2px 0px rgb(12 12 12 / 75%);
+
+  z-index: 7;
+  font-size: 1.1em;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+.middle-container {
+  background-color: red;
+  margin-left: 260px;
+  border: solid 20px;
+  border-color: black;
+  height: 200px;
+  width: 200px;
+}
+.bottom-container {
+  background-color: blue;
+  border: solid 10px;
+  border-color: black;
+  margin-left: 500px;
+  height: 200px;
+  width: 200px;
+}
+.home-header {
+  background-color: #1b191e;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75vh;
+}
+.second-header {
+  background-color: #404040;
+}
+
+#panda {
+  position: absolute;
+  right: 90px;
+  top: 60px;
 }
