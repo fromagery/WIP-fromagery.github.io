@@ -89,6 +89,9 @@ p{
   letter-spacing: 0.5px;
   line-height: 1.5;
 }
+.top-container>span.name2 {
+  text-align: left;
+}
 .middle-container {
   background-color: red;
   margin-left: 260px;
