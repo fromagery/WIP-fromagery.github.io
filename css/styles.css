@@ -40,8 +40,19 @@ body {
   text-align: center;
   margin: 0;
 }
+
+code {
+    font-family: 'Roboto Mono', monospace;
+    background: #0b0e0b;
+    color: #dd828c;
+    font-size: .9em;
+    padding: 0 3px;
+    border: 1px solid #666;
+    border-radius: 3px;
+}
 p{
-  text-align: center;
+
+
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -65,7 +76,7 @@ p{
 .top-container {
   background-color: yellow;
 
-  padding-top: 20px;
+  padding-top: 40px;
   background-color: #404040;
 
   width: 100%;
@@ -102,11 +113,24 @@ p{
   height: 75vh;
 }
 .second-header {
-  background-color: #404040;
+  background-color: #272727;
+}
+#twoone {
+
+
+  text-align: left;
+}
+#two {
+  width: 20%;
+  text-align: left;
+  height: 605px;
 }
 
 #panda {
   position: absolute;
   right: 90px;
   top: 60px;
+}
+#three {
+  background: rgb(16, 16, 16);
 }
