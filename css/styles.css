@@ -97,12 +97,24 @@ p{
 #pageDef {
       color: #999;
 }
+#cell {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  display: block;
+  position: : absolute;
+
+  margin-right: 70px;
+
+  text-align: right;
+}
 #nameOnContainer {
 margin-top: 0;
 text-align: left;
 margin-left: 80px;
 width: 33%;
 font-size: 80%;
+display: flex;
 }
 .top-container>span.name2 {
   text-align: left;
