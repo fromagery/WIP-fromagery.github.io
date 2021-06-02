@@ -72,11 +72,16 @@ p{
     position: absolute;
 }
 
-
+#nameOnContainer {
+    color: #f2f2f2;
+    margin-bottom: 0;
+    padding: 0;
+}
 .top-container {
   background-color: yellow;
 
-  padding-top: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: #404040;
 
   width: 100%;
@@ -88,6 +93,16 @@ p{
   font-size: 1.1em;
   letter-spacing: 0.5px;
   line-height: 1.5;
+}
+#pageDef {
+      color: #999;
+}
+#nameOnContainer {
+margin-top: 0;
+text-align: left;
+margin-left: 80px;
+width: 33%;
+font-size: 80%;
 }
 .top-container>span.name2 {
   text-align: left;
