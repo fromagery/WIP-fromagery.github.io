@@ -15,7 +15,7 @@ body {
     }
 
     hr {
-      border-color: #00adb5;
+      border-color: #eeeeee;
       border-width: 5px;
       border-style: none;
       border-top-style: dotted;
@@ -24,16 +24,16 @@ body {
 
     a:visited {
      text-decoration: none;
-     color: #00adb5;
+     color: #eeeeee;
 
     }
 
 h1{
-  color: #aad8d3;
+  color: #eeeeee;
   text-align: center;
 }
 h3{
-  color: #aad8d3;
+  color: #eeeeee;
   text-align: center;
 }
 body {
