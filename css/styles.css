@@ -139,14 +139,14 @@ display: flex;
   width: 200px;
 }
 .home-header {
-  background-color: #0A0A0A;
+  background-color: #00298a;
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
   height: 75vh;
 }
 .second-header {
-  background-color: #272727;
+  background-color: #00298a;
 }
 #twoone {
 
