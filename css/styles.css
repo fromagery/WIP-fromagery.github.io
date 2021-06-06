@@ -78,7 +78,7 @@ p{
     padding: 0;
 }
 a.hover {
-  color: white;
+  background-color: white;
 }
 .top-container {
   background-color: yellow;
