@@ -1,0 +1,18 @@
+body {
+
+      color: #eeeeee;
+      h1{
+        color: #aad8d3;
+
+        .home-header {
+          background-color: #1b191e;
+          .top-container {
+            background-color: yellow;
+
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background-color: #404040;
+            .second-header {
+              background-color: #272727;
+              #three {
+                background: rgb(16, 16, 16);
