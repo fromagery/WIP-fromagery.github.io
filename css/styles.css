@@ -89,6 +89,10 @@ table{
   background-color: white;
   color: black;
 }
+#link:hover {
+  background-color: black;
+  color: white;
+}
 a {
   color: #eeeeee;
 }
